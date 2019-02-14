@@ -1,0 +1,17 @@
+#,dim1,dim2,dim3,class1,class2
+1,A,X,C,A,
+2,A,Y,Y,A,
+3,A,A,X,A,
+4,Y,A,Y,A,
+5,X,A,B,A,B
+6,A,B,X,A,B
+7,Z,B,B,B,
+8,X,B,B,B,
+9,Y,X,B,B,
+10,Z,Y,B,B,
+11,C,A,Y,C,
+12,C,X,B,C,
+13,C,Y,C,C,
+14,C,A,C,C,
+15,C,X,C,C,
+16,X,Y,C,C,
